@@ -1,10 +1,11 @@
 # weatherApp-pro ❄️ 💨☀️🌥️
 
-Using Vue 3 with Vite.
-Using TailwindCSS v13
-Using Axios
-Using Composition API - Vue v3
-Using https://openweathermap.org/api for weather data
+* Using Vue 3 with Vite.
+* Using TailwindCSS v13
+* Using Axios
+* Using Remix icons vue https://github.com/2nthony/vue-remix-icons
+* Using Composition API - Vue v3
+* Using https://openweathermap.org/api for weather data
 
 ## Images
 
